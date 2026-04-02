@@ -34,23 +34,27 @@ My research interests include LLM for Security, Program Analysis, and Web Securi
 - **Context-Aware Automated Vulnerability Repair for PHP Web Applications**
   <br><u>Chenlin Wang</u>, Wei Meng.
   <br>*To appear in Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P)*, May 2026.
+  <br>Acceptance rate: 135/1,070 = 12.6%.
 
-- **Predator: Directed Web Application Fuzzing for Efficient Vulnerability Validation**
+- **Predator: Directed Web Application Fuzzing for Efficient Vulnerability Validation** ([paper](papers/sp25-predator.pdf))
   <br><u>Chenlin Wang</u>, Wei Meng, Changhua Luo, Penghui Li.
-  <br>*2025 IEEE Symposium on Security and Privacy (S&P)*, 2025. ([paper](papers/sp25-predator.pdf))
+  <br>*2025 IEEE Symposium on Security and Privacy (S&P)*, 2025.
+  <br>Acceptance rate: 257/1,740 = 14.8%.
 
-- **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications**
+- **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications** ([paper](papers/ccs25-BACScan.pdf))
   <br>Fengyu Liu, Yuan Zhang, Enhao Li, Wei Meng, Youkun Shi, Qianheng Wang, <u>Chenlin Wang</u>, Zihan Lin, Min Yang.
-  <br>*Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS)*, 2025. ([paper](papers/ccs25-BACScan.pdf))
+  <br>*Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS)*, 2025.
+  <br>Acceptance rate: 316/2,186 = 14.5%.
   <br>🏆 **Distinguished Paper Award**
 
-- **Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis**
+- **Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis** ([paper](papers/sp24-SymPHP.pdf))
   <br>Penghui Li, Wei Meng, Mingxue Zhang, <u>Chenlin Wang</u>, Changhua Luo.
-  <br>*2024 IEEE Symposium on Security and Privacy (S&P)*, 2024. ([paper](papers/sp24-SymPHP.pdf))
+  <br>*2024 IEEE Symposium on Security and Privacy (S&P)*, 2024.
+  <br>Acceptance rate: 261/1,463 = 17.8%.
 
-- **Spotlight on Video Piracy Websites: Familial Analysis Based on Multidimensional Features**
+- **Spotlight on Video Piracy Websites: Familial Analysis Based on Multidimensional Features** ([paper](papers/ksem22-VPW.pdf))
   <br><u>Chenlin Wang</u>, Yonghao Yu, Ao Pu, Fan Shi, Cheng Huang.
-  <br>*International Conference on Knowledge Science, Engineering and Management (KSEM)*, 2022. ([paper](papers/ksem22-VPW.pdf))
+  <br>*International Conference on Knowledge Science, Engineering and Management (KSEM)*, 2022.
 
 # 🎖 Honors and Awards
 - *2025.10* Distinguished Paper Award, ACM CCS 2025
