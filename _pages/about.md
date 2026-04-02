@@ -17,42 +17,47 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
-
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+I am a Ph.D. student in Computer Science and Engineering at The Chinese University of Hong Kong. My research interests include Software Analysis, Fuzzing, Dynamic Language Analysis, Web Security, and LLM4Sec.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10*: &nbsp;🎉🎉 Our paper received **Distinguished Paper Award** at ACM CCS 2025!
+- *2025.05*: &nbsp;🎉🎉 Our paper "Predator" is presented at IEEE S&P 2025.
 
-# 📝 Publications 
+# 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+- **Context-Aware Automated Vulnerability Repair for PHP Web Applications**, **Chenlin Wang**, Wei Meng. *To appear in Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P)*, May 2026.
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+- **Predator: Directed Web Application Fuzzing for Efficient Vulnerability Validation**, **Chenlin Wang**, Wei Meng, Changhua Luo, Penghui Li. *2025 IEEE Symposium on Security and Privacy (S&P)*, 2025.
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+- **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications**, Fengyu Liu, Yuan Zhang, Enhao Li, Wei Meng, Youkun Shi, Qianheng Wang, **Chenlin Wang**, Zihan Lin, Min Yang. *Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS)*, 2025. 🏆 **Distinguished Paper Award**
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-</div>
-</div>
+- **Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis**, Penghui Li, Wei Meng, Mingxue Zhang, **Chenlin Wang**, Changhua Luo. *2024 IEEE Symposium on Security and Privacy (S&P)*, 2024.
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- **Spotlight on Video Piracy Websites: Familial Analysis Based on Multidimensional Features**, **Chenlin Wang**, Yonghao Yu, Ao Pu, Fan Shi, Cheng Huang. *International Conference on Knowledge Science, Engineering and Management (KSEM)*, 2022.
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.10* Distinguished Paper Award, ACM CCS 2025
+- *2025.05* IEEE S&P 2025 Student Travel Grant
+- *2022.12* National Scholarship (2021-2022)
+- *2022.01* Chinese Modern Scientist Scholarship
+- *2022.08* The First Prize in National College Student Cyber Science and Engineering Contest
+- *2022.08* Innovation and Entrepreneurship Award
+- *2022.09* Outstanding Graduate
+- *2021.12* National Scholarship (2020-2021)
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.08 - present*, Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong.
+- *2018.09 - 2023.06*, B.Eng. in Cyber Science and Engineering, Sichuan University, Chengdu, China.
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💻 Services
+**Conference External Reviewer:** The Web Conference (2024, 2025, 2026), ACM CCS (2023, 2024, 2025), USENIX Security (2025), IEEE S&P (2023, 2024)
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+**Journal External Reviewer:** Science of Computer Programming (2024)
+
+# 🏫 Teaching
+- *2026 Spring*, CSCI 4130: Intro to Cyber Security, Teaching Assistant
+- *2025 Spring*, CSCI 4130: Intro to Cyber Security, Teaching Assistant
+- *2024 Fall*, ENGG 5105: Computer and Network Security, Teaching Assistant
+- *2024 Spring*, CSCI 4140: Open-Source Software Project Development, Teaching Assistant
+- *2023 Fall*, CSCI 1130A: Introduction to Computing using Java, Teaching Assistant
