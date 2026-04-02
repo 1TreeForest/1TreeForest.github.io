@@ -10,7 +10,6 @@ title                    : "Chenlin Wang"
 description              : ""
 research_interests:
   - LLM for Security
-  - Agent Security
   - Program Analysis
   - Web Security
 repository               : "1TreeForest/1TreeForest.github.io"
@@ -27,7 +26,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Chenlin Wang"
-  avatar           : "images/profile2.jpeg"
+  avatar           : "images/profile3.jpeg"
   bio              : "Ph.D. Candidate @ CUHK"
   location         :
   employer         :
