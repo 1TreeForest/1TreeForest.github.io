@@ -28,15 +28,26 @@ My research interests lie in Web Security and Software Security, with a focus on
 
 # 📝 Publications
 
-- **Context-Aware Automated Vulnerability Repair for PHP Web Applications**, <u>Chenlin Wang</u>, Wei Meng. *To appear in Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P)*, May 2026.
+- **Context-Aware Automated Vulnerability Repair for PHP Web Applications**
+  <br><u>Chenlin Wang</u>, Wei Meng.
+  <br>*To appear in Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P)*, May 2026.
 
-- **Predator: Directed Web Application Fuzzing for Efficient Vulnerability Validation**, <u>Chenlin Wang</u>, Wei Meng, Changhua Luo, Penghui Li. *2025 IEEE Symposium on Security and Privacy (S&P)*, 2025.
+- **Predator: Directed Web Application Fuzzing for Efficient Vulnerability Validation**
+  <br><u>Chenlin Wang</u>, Wei Meng, Changhua Luo, Penghui Li.
+  <br>*2025 IEEE Symposium on Security and Privacy (S&P)*, 2025.
 
-- **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications**, Fengyu Liu, Yuan Zhang, Enhao Li, Wei Meng, Youkun Shi, Qianheng Wang, <u>Chenlin Wang</u>, Zihan Lin, Min Yang. *Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS)*, 2025. 🏆 **Distinguished Paper Award**
+- **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications**
+  <br>Fengyu Liu, Yuan Zhang, Enhao Li, Wei Meng, Youkun Shi, Qianheng Wang, <u>Chenlin Wang</u>, Zihan Lin, Min Yang.
+  <br>*Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS)*, 2025.
+  <br>🏆 **Distinguished Paper Award**
 
-- **Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis**, Penghui Li, Wei Meng, Mingxue Zhang, <u>Chenlin Wang</u>, Changhua Luo. *2024 IEEE Symposium on Security and Privacy (S&P)*, 2024.
+- **Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis**
+  <br>Penghui Li, Wei Meng, Mingxue Zhang, <u>Chenlin Wang</u>, Changhua Luo.
+  <br>*2024 IEEE Symposium on Security and Privacy (S&P)*, 2024.
 
-- **Spotlight on Video Piracy Websites: Familial Analysis Based on Multidimensional Features**, <u>Chenlin Wang</u>, Yonghao Yu, Ao Pu, Fan Shi, Cheng Huang. *International Conference on Knowledge Science, Engineering and Management (KSEM)*, 2022.
+- **Spotlight on Video Piracy Websites: Familial Analysis Based on Multidimensional Features**
+  <br><u>Chenlin Wang</u>, Yonghao Yu, Ao Pu, Fan Shi, Cheng Huang.
+  <br>*International Conference on Knowledge Science, Engineering and Management (KSEM)*, 2022.
 
 # 🎖 Honors and Awards
 - *2025.10* Distinguished Paper Award, ACM CCS 2025
