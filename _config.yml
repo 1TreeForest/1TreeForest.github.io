@@ -10,6 +10,7 @@ title                    : "Chenlin Wang"
 description              : ""
 research_interests:
   - LLM for Security
+  - Agent Security
   - Program Analysis
   - Web Security
 repository               : "1TreeForest/1TreeForest.github.io"

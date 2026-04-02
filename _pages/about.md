@@ -19,7 +19,7 @@ redirect_from:
 
 I am a third-year Ph.D. candidate in Computer Science and Engineering at The Chinese University of Hong Kong, advised by [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei/). Before joining CUHK, I received my B.Eng. in Cyber Science and Engineering from Sichuan University.
 
-My research interests include LLM for Security, Program Analysis, and Web Security. Most recently, I am working on LLM-driven vulnerability detection and automated repair in large-scale codebases. My work has been published at top-tier security conferences including IEEE S&P and ACM CCS.
+My research interests include LLM for Security, Agent Security, Program Analysis, and Web Security. Most recently, I am working on LLM-driven vulnerability detection and automated repair in large-scale codebases. My work has been published at top-tier security conferences including IEEE S&P and ACM CCS.
 
 
 # 🔥 News
@@ -36,7 +36,7 @@ My research interests include LLM for Security, Program Analysis, and Web Securi
   <br>*To appear in Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P)*, May 2026.
   <br>Acceptance rate: 135/1,070 = 12.6%.
 
-- **Predator: Directed Web Application Fuzzing for Efficient Vulnerability Validation** ([paper](papers/sp25-predator.pdf))
+- **Predator: Directed Web Application Fuzzing for Efficient Vulnerability Validation** ([paper](papers/sp25-predator.pdf)) ([code](https://github.com/cuhk-seclab/Predator))
   <br><u>Chenlin Wang</u>, Wei Meng, Changhua Luo, Penghui Li.
   <br>*2025 IEEE Symposium on Security and Privacy (S&P)*, 2025.
   <br>Acceptance rate: 257/1,740 = 14.8%.
@@ -47,7 +47,7 @@ My research interests include LLM for Security, Program Analysis, and Web Securi
   <br>Acceptance rate: 316/2,186 = 14.5%.
   <br>🏆 **Distinguished Paper Award**
 
-- **Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis** ([paper](papers/sp24-SymPHP.pdf))
+- **Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis** ([paper](papers/sp24-SymPHP.pdf)) ([code](https://github.com/secureweb/symphp))
   <br>Penghui Li, Wei Meng, Mingxue Zhang, <u>Chenlin Wang</u>, Changhua Luo.
   <br>*2024 IEEE Symposium on Security and Privacy (S&P)*, 2024.
   <br>Acceptance rate: 261/1,463 = 17.8%.
@@ -71,7 +71,11 @@ My research interests include LLM for Security, Program Analysis, and Web Securi
 - *2018.09 - 2023.06*, B.Eng. in Cyber Science and Engineering, Sichuan University, Chengdu, China.
 
 # 💻 Services
-**Conference External Reviewer:** The Web Conference (2024, 2025, 2026), ACM CCS (2023, 2024, 2025), USENIX Security (2025), IEEE S&P (2023, 2024)
+**Conference External Reviewer:**
+<br>The Web Conference (2024, 2025, 2026)
+<br>ACM CCS (2023, 2024, 2025)
+<br>USENIX Security (2025)
+<br>IEEE S&P (2023, 2024)
 
 **Journal External Reviewer:** Science of Computer Programming (2024)
 
