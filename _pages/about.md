@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a Ph.D. student in Computer Science and Engineering at The Chinese University of Hong Kong. My research interests include Software Analysis, Fuzzing, Dynamic Language Analysis, Web Security, and LLM4Sec.
+I am a third-year Ph.D. candidate in Computer Science and Engineering at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), advised by [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei/). Before joining CUHK, I received my B.Eng. in Cyber Science and Engineering from [Sichuan University](https://www.scu.edu.cn/).
+
+My research interests lie in Web Security and Software Security, with a focus on leveraging program analysis and fuzzing techniques to detect and repair vulnerabilities in real-world web applications. My work has been published at top-tier security conferences including IEEE S&P and ACM CCS, and has received a Distinguished Paper Award at CCS 2025.
 
 
 # 🔥 News
@@ -26,15 +28,15 @@ I am a Ph.D. student in Computer Science and Engineering at The Chinese Universi
 
 # 📝 Publications
 
-- **Context-Aware Automated Vulnerability Repair for PHP Web Applications**, **Chenlin Wang**, Wei Meng. *To appear in Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P)*, May 2026.
+- **Context-Aware Automated Vulnerability Repair for PHP Web Applications**, <u>Chenlin Wang</u>, Wei Meng. *To appear in Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P)*, May 2026.
 
-- **Predator: Directed Web Application Fuzzing for Efficient Vulnerability Validation**, **Chenlin Wang**, Wei Meng, Changhua Luo, Penghui Li. *2025 IEEE Symposium on Security and Privacy (S&P)*, 2025.
+- **Predator: Directed Web Application Fuzzing for Efficient Vulnerability Validation**, <u>Chenlin Wang</u>, Wei Meng, Changhua Luo, Penghui Li. *2025 IEEE Symposium on Security and Privacy (S&P)*, 2025.
 
-- **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications**, Fengyu Liu, Yuan Zhang, Enhao Li, Wei Meng, Youkun Shi, Qianheng Wang, **Chenlin Wang**, Zihan Lin, Min Yang. *Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS)*, 2025. 🏆 **Distinguished Paper Award**
+- **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications**, Fengyu Liu, Yuan Zhang, Enhao Li, Wei Meng, Youkun Shi, Qianheng Wang, <u>Chenlin Wang</u>, Zihan Lin, Min Yang. *Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS)*, 2025. 🏆 **Distinguished Paper Award**
 
-- **Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis**, Penghui Li, Wei Meng, Mingxue Zhang, **Chenlin Wang**, Changhua Luo. *2024 IEEE Symposium on Security and Privacy (S&P)*, 2024.
+- **Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis**, Penghui Li, Wei Meng, Mingxue Zhang, <u>Chenlin Wang</u>, Changhua Luo. *2024 IEEE Symposium on Security and Privacy (S&P)*, 2024.
 
-- **Spotlight on Video Piracy Websites: Familial Analysis Based on Multidimensional Features**, **Chenlin Wang**, Yonghao Yu, Ao Pu, Fan Shi, Cheng Huang. *International Conference on Knowledge Science, Engineering and Management (KSEM)*, 2022.
+- **Spotlight on Video Piracy Websites: Familial Analysis Based on Multidimensional Features**, <u>Chenlin Wang</u>, Yonghao Yu, Ao Pu, Fan Shi, Cheng Huang. *International Conference on Knowledge Science, Engineering and Management (KSEM)*, 2022.
 
 # 🎖 Honors and Awards
 - *2025.10* Distinguished Paper Award, ACM CCS 2025
