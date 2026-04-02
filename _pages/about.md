@@ -34,20 +34,20 @@ My research interests lie in Web Security and Software Security, with a focus on
 
 - **Predator: Directed Web Application Fuzzing for Efficient Vulnerability Validation**
   <br><u>Chenlin Wang</u>, Wei Meng, Changhua Luo, Penghui Li.
-  <br>*2025 IEEE Symposium on Security and Privacy (S&P)*, 2025.
+  <br>*2025 IEEE Symposium on Security and Privacy (S&P)*, 2025. ([paper](papers/sp25-predator.pdf))
 
 - **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications**
   <br>Fengyu Liu, Yuan Zhang, Enhao Li, Wei Meng, Youkun Shi, Qianheng Wang, <u>Chenlin Wang</u>, Zihan Lin, Min Yang.
-  <br>*Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS)*, 2025.
+  <br>*Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS)*, 2025. ([paper](papers/ccs25-BACScan.pdf))
   <br>🏆 **Distinguished Paper Award**
 
 - **Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis**
   <br>Penghui Li, Wei Meng, Mingxue Zhang, <u>Chenlin Wang</u>, Changhua Luo.
-  <br>*2024 IEEE Symposium on Security and Privacy (S&P)*, 2024.
+  <br>*2024 IEEE Symposium on Security and Privacy (S&P)*, 2024. ([paper](papers/sp24-SymPHP.pdf))
 
 - **Spotlight on Video Piracy Websites: Familial Analysis Based on Multidimensional Features**
   <br><u>Chenlin Wang</u>, Yonghao Yu, Ao Pu, Fan Shi, Cheng Huang.
-  <br>*International Conference on Knowledge Science, Engineering and Management (KSEM)*, 2022.
+  <br>*International Conference on Knowledge Science, Engineering and Management (KSEM)*, 2022. ([paper](papers/ksem22-VPW.pdf))
 
 # 🎖 Honors and Awards
 - *2025.10* Distinguished Paper Award, ACM CCS 2025
