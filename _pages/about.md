@@ -19,12 +19,15 @@ redirect_from:
 
 I am a third-year Ph.D. candidate in Computer Science and Engineering at The Chinese University of Hong Kong, advised by [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei/). Before joining CUHK, I received my B.Eng. in Cyber Science and Engineering from Sichuan University.
 
-My research interests lie in Web Security and Software Security, with a focus on leveraging program analysis and fuzzing techniques to detect and repair vulnerabilities in real-world web applications. My work has been published at top-tier security conferences including IEEE S&P and ACM CCS.
+My research interests include Program Analysis, Web Security, and LLM for Security. I apply program analysis techniques to detect and repair vulnerabilities, and explore the use of large language models to enhance security analysis. My work has been published at top-tier security conferences including IEEE S&P and ACM CCS.
 
 
 # 🔥 News
-- *2025.10*: &nbsp;🎉🎉 Our paper received **Distinguished Paper Award** at ACM CCS 2025!
-- *2025.05*: &nbsp;🎉🎉 Our paper "Predator" is presented at IEEE S&P 2025.
+- *2026.03*: One paper accepted to Oakland 2026.
+- *2025.10*: One paper received **Distinguished Paper Award** at ACM CCS 2025!
+- *2025.03*: One paper accepted by ACM CCS 2025.
+- *2024.09*: One paper accepted to Oakland 2025.
+- *2024.04*: One paper accepted to Oakland 2024.
 
 # 📝 Publications
 
@@ -68,9 +71,4 @@ My research interests lie in Web Security and Software Security, with a focus on
 
 **Journal External Reviewer:** Science of Computer Programming (2024)
 
-# 🏫 Teaching
-- *2026 Spring*, CSCI 4130: Intro to Cyber Security, Teaching Assistant
-- *2025 Spring*, CSCI 4130: Intro to Cyber Security, Teaching Assistant
-- *2024 Fall*, ENGG 5105: Computer and Network Security, Teaching Assistant
-- *2024 Spring*, CSCI 4140: Open-Source Software Project Development, Teaching Assistant
-- *2023 Fall*, CSCI 1130A: Introduction to Computing using Java, Teaching Assistant
+**Teaching Assistant:** CSCI 4130 (2025 Spring, 2026 Spring), ENGG 5105 (2024 Fall), CSCI 4140 (2024 Spring), CSCI 1130A (2023 Fall)
