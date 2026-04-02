@@ -24,7 +24,7 @@ My research interests include LLM for Security, Program Analysis, and Web Securi
 
 # 🔥 News
 - *2026.03*: One paper accepted to Oakland 2026.
-- *2025.10*: One paper received **Distinguished Paper Award** at ACM CCS 2025!
+- *2025.10*: One paper received **Distinguished Paper Award** at ACM CCS 2025.
 - *2025.03*: One paper accepted by ACM CCS 2025.
 - *2024.09*: One paper accepted to Oakland 2025.
 - *2024.04*: One paper accepted to Oakland 2024.

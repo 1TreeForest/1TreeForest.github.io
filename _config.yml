@@ -28,7 +28,7 @@ author:
   name             : "Chenlin Wang"
   avatar           : "images/profile2.jpeg"
   bio              : "Ph.D. Candidate @ CUHK"
-  location         : "Hong Kong"
+  location         :
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
@@ -49,7 +49,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0008-0588-3005"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
