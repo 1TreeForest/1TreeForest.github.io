@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. candidate in Computer Science and Engineering at [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/), advised by [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei/). Before joining CUHK, I received my B.Eng. in Cyber Science and Engineering from [Sichuan University](https://www.scu.edu.cn/).
+I am a third-year Ph.D. candidate in Computer Science and Engineering at The Chinese University of Hong Kong, advised by [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei/). Before joining CUHK, I received my B.Eng. in Cyber Science and Engineering from Sichuan University.
 
-My research interests lie in Web Security and Software Security, with a focus on leveraging program analysis and fuzzing techniques to detect and repair vulnerabilities in real-world web applications. My work has been published at top-tier security conferences including IEEE S&P and ACM CCS, and has received a Distinguished Paper Award at CCS 2025.
+My research interests lie in Web Security and Software Security, with a focus on leveraging program analysis and fuzzing techniques to detect and repair vulnerabilities in real-world web applications. My work has been published at top-tier security conferences including IEEE S&P and ACM CCS.
 
 
 # 🔥 News
