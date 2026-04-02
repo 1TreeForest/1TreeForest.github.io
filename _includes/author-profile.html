@@ -19,6 +19,18 @@
       {% if site.description %}
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
+      {% if site.research_interests %}
+        <li>
+          <div style="white-space: normal; margin-bottom: 1em;">
+            <strong>Research Interests:</strong>
+            <ul style="margin: 0.3em 0 0 1.2em; padding: 0;">
+            {% for interest in site.research_interests %}
+              <li style="margin-bottom: 0.1em;">{{ interest }}</li>
+            {% endfor %}
+            </ul>
+          </div>
+        </li>
+      {% endif %}
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}

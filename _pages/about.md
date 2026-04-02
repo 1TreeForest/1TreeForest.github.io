@@ -19,7 +19,7 @@ redirect_from:
 
 I am a third-year Ph.D. candidate in Computer Science and Engineering at The Chinese University of Hong Kong, advised by [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei/). Before joining CUHK, I received my B.Eng. in Cyber Science and Engineering from Sichuan University.
 
-My research interests include Program Analysis, Web Security, and LLM for Security. I apply program analysis techniques to detect and repair vulnerabilities, and explore the use of large language models to enhance security analysis. My work has been published at top-tier security conferences including IEEE S&P and ACM CCS.
+My research interests include LLM for Security, Program Analysis, and Web Security. Most recently, I am working on LLM-driven vulnerability detection and automated repair in large-scale codebases. My work has been published at top-tier security conferences including IEEE S&P and ACM CCS.
 
 
 # 🔥 News

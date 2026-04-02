@@ -7,7 +7,11 @@
 
 # Site Settings
 title                    : "Chenlin Wang"
-description              : "Ph.D. Candidate in CSE at CUHK"
+description              : ""
+research_interests:
+  - LLM for Security
+  - Program Analysis
+  - Web Security
 repository               : "1TreeForest/1TreeForest.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +27,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Chenlin Wang"
   avatar           : "images/profile2.jpeg"
-  bio              : "The Chinese University of Hong Kong"
+  bio              : "The Chinese University of Hong Kong<br>Computer Science and Engineering<br>Ph.D. Candidate"
   location         : "Hong Kong"
   employer         :
   pubmed           : 
