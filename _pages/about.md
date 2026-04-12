@@ -24,7 +24,7 @@ My research interests include LLM for Security, Program Analysis, and Web Securi
 
 # 🔥 News
 - *2026.03*: One paper accepted to IEEE S&P 2026.
-- *2025.10*: One paper received **Distinguished Paper Award** at ACM CCS 2025.
+- *2025.10*: One paper received <span style="color:#A52422; font-weight:bold;">Distinguished Paper Award</span> at ACM CCS 2025.
 - *2025.03*: One paper accepted by ACM CCS 2025.
 - *2024.09*: One paper accepted to IEEE S&P 2025.
 - *2024.04*: One paper accepted to IEEE S&P 2024.
@@ -45,7 +45,7 @@ My research interests include LLM for Security, Program Analysis, and Web Securi
   <br>Fengyu Liu, Yuan Zhang, Enhao Li, Wei Meng, Youkun Shi, Qianheng Wang, <u>Chenlin Wang</u>, Zihan Lin, Min Yang.
   <br>*Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS)*, 2025.
   <br>Acceptance rate: 316/2,186 = 14.5%.
-  <br>🏆 **Distinguished Paper Award**
+  <br>🏆 <span style="color:#A52422; font-weight:bold;">Distinguished Paper Award</span>
 
 - **Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis** ([paper](papers/sp24-SymPHP.pdf)) ([code](https://github.com/secureweb/symphp))
   <br>Penghui Li, Wei Meng, Mingxue Zhang, <u>Chenlin Wang</u>, Changhua Luo.
@@ -57,7 +57,7 @@ My research interests include LLM for Security, Program Analysis, and Web Securi
   <br>*International Conference on Knowledge Science, Engineering and Management (KSEM)*, 2022.
 
 # 🎖 Honors and Awards
-- *2025.10* Distinguished Paper Award, ACM CCS 2025
+- *2025.10* <span style="color:#A52422; font-weight:bold;">Distinguished Paper Award</span>, ACM CCS 2025
 - *2025.05* IEEE S&P 2025 Student Travel Grant
 - *2022.12* National Scholarship (2021-2022)
 - *2022.01* Chinese Modern Scientist Scholarship
