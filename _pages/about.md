@@ -38,7 +38,7 @@ My research interests include LLM for Security, Program Analysis, and Web Securi
 
 - **Predator: Directed Web Application Fuzzing for Efficient Vulnerability Validation** ([paper](papers/sp25-predator.pdf)) ([code](https://github.com/cuhk-seclab/Predator))
   <br><u>Chenlin Wang</u>, Wei Meng, Changhua Luo, Penghui Li.
-  <br>*2025 IEEE Symposium on Security and Privacy (S&P)*, 2025.
+  <br>*In Proceedings of the 46th IEEE Symposium on Security and Privacy (S&P)*, May 2025.
   <br>Acceptance rate: 257/1,740 = 14.8%.
 
 - **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications** ([paper](papers/ccs25-BACScan.pdf))
