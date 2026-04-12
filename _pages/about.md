@@ -58,7 +58,7 @@ My research interests include LLM for Security, Program Analysis, and Web Securi
   <br>*International Conference on Knowledge Science, Engineering and Management (KSEM)*, 2022.
 
 # 🎖 Honors and Awards
-- *2025.10* <span style="color:#A52422; font-weight:bold;">Distinguished Paper Award</span>, ACM CCS 2025
+- *2025.10* Distinguished Paper Award, ACM CCS 2025
 - *2025.05* IEEE S&P 2025 Student Travel Grant
 - *2022.12* National Scholarship (2021-2022)
 - *2022.01* Chinese Modern Scientist Scholarship
