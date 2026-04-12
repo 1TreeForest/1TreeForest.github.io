@@ -80,4 +80,4 @@ My research interests include LLM for Security, Program Analysis, and Web Securi
 
 **Journal External Reviewer:** Science of Computer Programming (2024)
 
-**Teaching Assistant@CUHK:** CSCI 4130 (2025 Spring, 2026 Spring), ENGG 5105 (2024 Fall), CSCI 4140 (2024 Spring), CSCI 1130A (2023 Fall)
+**Teaching Assistant @ CUHK:** CSCI 4130 (2025 Spring, 2026 Spring), ENGG 5105 (2024 Fall), CSCI 4140 (2024 Spring), CSCI 1130A (2023 Fall)
