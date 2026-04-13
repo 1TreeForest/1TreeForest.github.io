@@ -44,18 +44,18 @@ My research interests include LLM for Security, Program Analysis, and Web Securi
 
 - **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications** ([paper](papers/ccs25-BACScan.pdf))
   <br>Fengyu Liu, Yuan Zhang, Enhao Li, Wei Meng, Youkun Shi, Qianheng Wang, <u>Chenlin Wang</u>, Zihan Lin, Min Yang.
-  <br>*Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS)*, 2025.
+  <br>*In Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS)*, October 2025.
   <br>Acceptance rate: 316/2,186 = 14.5%.
   <br>🏆 <span style="color:#A52422; font-weight:bold;">Distinguished Paper Award</span>
 
 - **Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis** ([paper](papers/sp24-SymPHP.pdf)) ([code](https://github.com/secureweb/symphp))
   <br>Penghui Li, Wei Meng, Mingxue Zhang, <u>Chenlin Wang</u>, Changhua Luo.
-  <br>*2024 IEEE Symposium on Security and Privacy (S&P)*, 2024.
+  <br>*In Proceedings of the 45th IEEE Symposium on Security and Privacy (S&P)*, May 2024.
   <br>Acceptance rate: 261/1,463 = 17.8%.
 
 - **Spotlight on Video Piracy Websites: Familial Analysis Based on Multidimensional Features** ([paper](papers/ksem22-VPW.pdf))
   <br><u>Chenlin Wang</u>, Yonghao Yu, Ao Pu, Fan Shi, Cheng Huang.
-  <br>*International Conference on Knowledge Science, Engineering and Management (KSEM)*, 2022.
+  <br>*In Proceedings of the 15th International Conference on Knowledge Science, Engineering and Management (KSEM)*, August 2022.
 
 # 🎖 Honors and Awards
 - *2025.10* Distinguished Paper Award, ACM CCS 2025
