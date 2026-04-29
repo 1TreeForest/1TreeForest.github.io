@@ -6,8 +6,8 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chenlin Wang"
-description              : ""
+title                    : "Chenlin Wang | Ph.D. Candidate @ CUHK"
+description              : "Chenlin Wang is a third-year Ph.D. candidate in Computer Science and Engineering at The Chinese University of Hong Kong (CUHK), advised by Prof. Wei Meng. Research interests: LLM for Security, Program Analysis, and Web Security. Published at IEEE S&P and ACM CCS."
 research_interests:
   - LLM for Security
   - Program Analysis

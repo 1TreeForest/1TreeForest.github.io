@@ -1,7 +1,8 @@
 ---
 permalink: /
 title: ""
-excerpt: ""
+description: "Chenlin Wang is a third-year Ph.D. candidate in Computer Science and Engineering at The Chinese University of Hong Kong (CUHK), advised by Prof. Wei Meng. Research interests: LLM for Security, Program Analysis, and Web Security. Published at IEEE S&P and ACM CCS."
+excerpt: "Chenlin Wang is a third-year Ph.D. candidate in Computer Science and Engineering at The Chinese University of Hong Kong (CUHK), advised by Prof. Wei Meng. Research interests: LLM for Security, Program Analysis, and Web Security. Published at IEEE S&P and ACM CCS."
 author_profile: true
 redirect_from: 
   - /about/
