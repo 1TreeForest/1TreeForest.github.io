@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Chenlin Wang | Ph.D. Candidate @ CUHK"
+title                    : "Chenlin Wang | Seclab | CUHK"
 description              : ""
 research_interests:
   - LLM for Security
