@@ -38,16 +38,16 @@ My research interests include LLM for Security, Program Analysis, and Web Securi
   <br>*To appear in Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P)*, May 2026.
   <br>Acceptance rate: 135/1,070 = 12.6%.
 
-- **Predator: Directed Web Application Fuzzing for Efficient Vulnerability Validation** ([paper](papers/sp25-predator.pdf)) ([code](https://github.com/cuhk-seclab/Predator))
-  <br><u>Chenlin Wang</u>, Wei Meng, Changhua Luo, Penghui Li.
-  <br>*In Proceedings of the 46th IEEE Symposium on Security and Privacy (S&P)*, May 2025.
-  <br>Acceptance rate: 257/1,740 = 14.8%.
-
 - **BACScan: Automatic Black-Box Detection of Broken-Access-Control Vulnerabilities in Web Applications** ([paper](papers/ccs25-BACScan.pdf))
   <br>Fengyu Liu, Yuan Zhang, Enhao Li, Wei Meng, Youkun Shi, Qianheng Wang, <u>Chenlin Wang</u>, Zihan Lin, Min Yang.
   <br>*In Proceedings of the 2025 ACM SIGSAC Conference on Computer and Communications Security (CCS)*, October 2025.
   <br>Acceptance rate: 316/2,186 = 14.5%.
   <br>🏆 <span style="color:#A52422; font-weight:bold;">Distinguished Paper Award</span>
+
+- **Predator: Directed Web Application Fuzzing for Efficient Vulnerability Validation** ([paper](papers/sp25-predator.pdf)) ([code](https://github.com/cuhk-seclab/Predator))
+  <br><u>Chenlin Wang</u>, Wei Meng, Changhua Luo, Penghui Li.
+  <br>*In Proceedings of the 46th IEEE Symposium on Security and Privacy (S&P)*, May 2025.
+  <br>Acceptance rate: 257/1,740 = 14.8%.
 
 - **Holistic Concolic Execution for Dynamic Web Applications via Symbolic Interpreter Analysis** ([paper](papers/sp24-SymPHP.pdf)) ([code](https://github.com/secureweb/symphp))
   <br>Penghui Li, Wei Meng, Mingxue Zhang, <u>Chenlin Wang</u>, Changhua Luo.
@@ -69,7 +69,7 @@ My research interests include LLM for Security, Program Analysis, and Web Securi
 - *2021.12* National Scholarship (2020-2021)
 
 # 📖 Educations
-- *2023.08 - present*, Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong.
+- *2023.08 - present*, Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China.
 - *2018.09 - 2023.06*, B.Eng. in Cyber Science and Engineering, Sichuan University, Chengdu, China.
 
 # 💻 Services
