@@ -68,9 +68,9 @@ My research interests include LLM for Security, Program Analysis, and Web Securi
 - *2022.09* Outstanding Graduate
 - *2021.12* National Scholarship (2020-2021)
 
-# 📖 Educations
-- *2023.08 - present*, Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong, Hong Kong SAR, China.
-- *2018.09 - 2023.06*, B.Eng. in Cyber Science and Engineering, Sichuan University, Chengdu, China.
+# 📖 Education
+- *2023.08 - present*, Ph.D. in Computer Science and Engineering, The Chinese University of Hong Kong.
+- *2018.09 - 2023.06*, B.Eng. in Cyber Science and Engineering, Sichuan University.
 
 # 💻 Services
 **Conference External Reviewer:**
