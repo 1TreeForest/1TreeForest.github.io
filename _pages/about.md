@@ -33,7 +33,7 @@ My research interests include LLM for Security, Program Analysis, and Web Securi
 
 # 📝 Publications
 
-- **Web Application Vulnerability Repair via Context-Aware Fault Localization and Directed Differential Fuzzing**
+- **Web Application Vulnerability Repair via Context-Aware Fault Localization and Directed Differential Fuzzing** ([paper](papers/sp26-SlicePatch.pdf)) ([code](https://github.com/cuhk-seclab/SlicePatch))
   <br><u>Chenlin Wang</u>, Wei Meng.
   <br>*To appear in Proceedings of the 47th IEEE Symposium on Security and Privacy (S&P)*, May 2026.
   <br>Acceptance rate: 135/1,070 = 12.6%.
