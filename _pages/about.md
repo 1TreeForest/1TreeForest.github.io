@@ -23,7 +23,7 @@ I am a fourth-year Ph.D. candidate in Computer Science and Engineering at The Ch
 My research interests include LLM for Security, Program Analysis, and Web Security. Most recently, I am working on LLM-driven vulnerability detection and automated repair in large-scale codebases. My work has been published at top-tier security conferences including IEEE S&P and ACM CCS.
 
 <div class="notice--info job-market-notice" markdown="1">
-**I expect to graduate in 2027. I am seeking research positions in both academia and industry and will be available to start in late 2027.**
+**I expect to graduate in 2027 and will be available to start a new position in late 2027. I am seeking research positions in both academia and industry. Please feel free to contact me about relevant opportunities.**
 </div>
 
 # 🔥 News
