@@ -1,8 +1,8 @@
 ---
 permalink: /
 title: ""
-description: "Chenlin Wang is a third-year Ph.D. candidate in Computer Science and Engineering at The Chinese University of Hong Kong (CUHK), advised by Prof. Wei Meng. Research interests: LLM for Security, Program Analysis, and Web Security. Published at IEEE S&P and ACM CCS."
-excerpt: "Chenlin Wang is a third-year Ph.D. candidate in Computer Science and Engineering at The Chinese University of Hong Kong (CUHK), advised by Prof. Wei Meng. Research interests: LLM for Security, Program Analysis, and Web Security. Published at IEEE S&P and ACM CCS."
+description: "Chenlin Wang is a fourth-year Ph.D. candidate in Computer Science and Engineering at The Chinese University of Hong Kong (CUHK), expecting to graduate in 2027. His research focuses on LLM for Security, Program Analysis, and Web Security, with publications at IEEE S&P and ACM CCS."
+excerpt: "Chenlin Wang is a fourth-year Ph.D. candidate in Computer Science and Engineering at The Chinese University of Hong Kong (CUHK), expecting to graduate in 2027. His research focuses on LLM for Security, Program Analysis, and Web Security, with publications at IEEE S&P and ACM CCS."
 author_profile: true
 redirect_from: 
   - /about/
@@ -18,7 +18,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a third-year Ph.D. candidate in Computer Science and Engineering at The Chinese University of Hong Kong, fortunately advised by [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei/). Before joining CUHK, I received my B.Eng. in Cyber Science and Engineering from Sichuan University.
+I am a fourth-year Ph.D. candidate in Computer Science and Engineering at The Chinese University of Hong Kong, fortunately advised by [Prof. Wei Meng](https://www.cse.cuhk.edu.hk/~wei/). I expect to graduate in 2027. Before joining CUHK, I received my B.Eng. in Cyber Science and Engineering from Sichuan University.
+
+**I am seeking research positions in both academia and industry and will be available to start in late 2027.**
 
 My research interests include LLM for Security, Program Analysis, and Web Security. Most recently, I am working on LLM-driven vulnerability detection and automated repair in large-scale codebases. My work has been published at top-tier security conferences including IEEE S&P and ACM CCS.
 
